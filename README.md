@@ -1,22 +1,3 @@
-> [!NOTE]
-> ### Lectures
-> - High-level programs and data abstractions
-> - Machine programming
-> - Memory organization
-> - Optimizing programs performance
-> ### Practical
-> - Overview of compilation systems. C programming language basics
-> - Static allocation of arrays and strings in C. Memory access through pointers
-> - Assembly programming language basics
-> - Arithmetic operations in Assembly
-> - Control flow in Assembly
-> - Working with strings and arrays in Assembly
-> - Stack and functions without arguments in Assembly
-> - Stack and functions with arguments in Assembly. Handling local variables
-> - Bitwise operations (C and Assembly)
-> - Heterogeneous data structures (C and Assembly)
-> - Dynamic memory allocation (C and Assembly)
-
 # ARQCP
 ## Teórica
 
@@ -47,3 +28,7 @@
 - TP10 - Heterogeneous data structures [(here)](https://github.com/LuigyLima01/Estudos_C/blob/main/ARQCP/Teorica-pratica/TP10%20-%20Heterogeneous%20data%20structures.pdf);
 - TP11 - Dynamic memory allocation [(here)](https://github.com/LuigyLima01/Estudos_C/blob/main/ARQCP/Teorica-pratica/TP11%20-%20Dynamic%20memory%20allocation.pdf);
 - TP12 - Dynamic memory allocation (part 2) [(here)](https://github.com/LuigyLima01/Estudos_C/blob/main/ARQCP/Teorica-pratica/TP12%20-%20Dynamic%20memory%20allocation%20(part%202).pdf);
+
+## Praticas
+
+[(Link)](https://github.com/GabrielGoncalves22/ISEP-ARQCP) para os exercicios praticos caso precises.
